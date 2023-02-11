@@ -679,6 +679,7 @@ header .navbar ul li a:hover {
 @media (max-width: 760px){
     .girl{
         width: 200% !important;
+        height: auto !important;
         
     }
     .shape{width: 200% !important;}
